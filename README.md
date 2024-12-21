@@ -14,13 +14,14 @@ https://www.kaggle.com/datasets/muhammetakkurt/trump-2024-campaign-truthsocial-t
 Apply Natural Language Processing (NLP) techniques such as sentiment classification using machine learning models (e.g., logistic regression, random forest, or deep learning models like BERT).
 
 #### Results
+Though the accuracy shows 98%, it can still be further improved with target column considering all possible options
 
 #### Next steps
 What suggestions do you have for next steps?
 
 
 #### Outline of project
-
+https://github.com/lakshmip8217/CapStoneProject_20.1/blob/main/capstone_project.ipynb
 
 ##### Contact and Further Information
 
