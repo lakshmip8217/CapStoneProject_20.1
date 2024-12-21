@@ -24,5 +24,5 @@ What suggestions do you have for next steps?
 https://github.com/lakshmip8217/CapStoneProject_20.1/blob/main/capstone_project.ipynb
 
 ##### Contact and Further Information
-
+lakshmi.mannuru17@gmail.com
 
